@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://github.com/xyy9233/xyy9233.github.io.git/2023/01/02/my-first-hexoblog/</loc>
+    
+    <lastmod>2023-01-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://github.com/xyy9233/xyy9233.github.io.git/2023/01/02/hello-world/</loc>
     
     <lastmod>2023-01-02</lastmod>
