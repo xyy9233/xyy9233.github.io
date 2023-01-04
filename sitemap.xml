@@ -2,27 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://github.com/xyy9233/xyy9233.github.io.git/2022/12/25/12%E6%9C%88%E7%9A%84%E5%B0%8F%E7%BB%93%E6%8D%8F/</loc>
+    <loc>https://github.com/xyy9233/xyy9233.github.io.git/2023/01/03/WEB%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80/</loc>
     
-    <lastmod>2023-01-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/xyy9233/xyy9233.github.io.git/2023/01/02/my-first-hexoblog/</loc>
-    
-    <lastmod>2023-01-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/xyy9233/xyy9233.github.io.git/2023/01/02/hello-world/</loc>
-    
-    <lastmod>2023-01-02</lastmod>
+    <lastmod>2023-01-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +13,7 @@
 
   <url>
     <loc>https://github.com/xyy9233/xyy9233.github.io.git</loc>
-    <lastmod>2023-01-02</lastmod>
+    <lastmod>2023-01-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
