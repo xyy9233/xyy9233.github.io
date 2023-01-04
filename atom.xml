@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title></title>
-  
+  <title>学习生活手账本</title>
+  <icon>https://www.gravatar.com/avatar/260de78781b3355b5fcbb52d09a7a2a9</icon>
   
   <link href="https://github.com/xyy9233/xyy9233.github.io.git/atom.xml" rel="self"/>
   
   <link href="https://github.com/xyy9233/xyy9233.github.io.git/"/>
   <updated>2023-01-04T06:04:43.486Z</updated>
   <id>https://github.com/xyy9233/xyy9233.github.io.git/</id>
+  
+  <author>
+    <name>wind_9233</name>
+    <email>1768765226@qq.com</email>
+  </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
