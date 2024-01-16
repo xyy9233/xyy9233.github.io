@@ -207,6 +207,13 @@
   </url>
   
   <url>
+    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/MISC/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E4%BF%AE%E7%94%B5%E8%84%91-%E9%80%86%E5%90%91%E5%AD%A6%E4%B9%A0-UPX%E5%A3%B3/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -221,7 +228,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/MISC/</loc>
+    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E5%91%BD%E4%BB%A4-%E5%BF%AB%E6%8D%B7/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -235,14 +242,14 @@
   </url>
   
   <url>
-    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E5%91%BD%E4%BB%A4-%E5%BF%AB%E6%8D%B7/</loc>
+    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E5%88%B6-%E6%80%9D%E4%BF%AE/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E5%88%B6-%E6%80%9D%E4%BF%AE/</loc>
+    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1-OJ/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -257,13 +264,6 @@
   
   <url>
     <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1-OJ/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
