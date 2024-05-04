@@ -3,8 +3,15 @@
 
 
     <url>
+        <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/begin-%E9%80%86%E5%90%91/</loc>
+        <lastmod>2024-05-04T11:56:23.756Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E9%80%86%E5%90%91/</loc>
-        <lastmod>2024-05-04T11:41:34.954Z</lastmod>
+        <lastmod>2024-05-04T11:56:02.195Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -19,13 +26,6 @@
     <url>
         <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E9%80%86%E5%90%91-%E5%AD%90%E4%BF%AE%E6%94%B9%E4%BB%A3%E7%A0%81/</loc>
         <lastmod>2024-05-04T11:32:14.411Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/begin-%E9%80%86%E5%90%91/</loc>
-        <lastmod>2024-03-16T04:49:10.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
