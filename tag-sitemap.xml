@@ -3,22 +3,36 @@
 
 
     <url>
-        <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/begin-%E9%80%86%E5%90%91/</loc>
-        <lastmod>2024-05-04T11:56:23.756Z</lastmod>
+        <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/BaseCTF-CTF-Reverse/</loc>
+        <lastmod>2024-09-01T16:23:35.009Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E9%80%86%E5%90%91/</loc>
-        <lastmod>2024-05-04T11:56:02.195Z</lastmod>
+        <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/CTF-Misc/</loc>
+        <lastmod>2024-09-01T16:22:06.434Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/DLlibrary/</loc>
-        <lastmod>2024-05-04T11:40:56.458Z</lastmod>
+        <lastmod>2024-05-08T05:45:52.166Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E9%80%86%E5%90%91/</loc>
+        <lastmod>2024-05-05T02:23:05.433Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/begin-%E9%80%86%E5%90%91/</loc>
+        <lastmod>2024-05-04T11:56:23.756Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
