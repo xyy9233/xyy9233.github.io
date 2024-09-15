@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://github.com/xyy9233/xyy9233.github.io.git/2024/09/15/DEFCONquals_Rev_ncHEVjuw/</loc>
-    
-    <lastmod>2024-09-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://github.com/xyy9233/xyy9233.github.io.git/2024/02/01/IDAPython%E4%B8%8Eelf%E8%BF%90%E8%A1%8C%E6%B5%81%E7%A8%8B/</loc>
     
     <lastmod>2024-09-02</lastmod>
@@ -360,13 +351,6 @@
   </url>
   
   <url>
-    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E9%80%86%E5%90%91%E5%AD%A6%E4%B9%A0-UPX%E5%A3%B3/</loc>
-    <lastmod>2024-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/MISC/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -381,7 +365,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E9%80%86%E5%90%91-%E5%AD%90%E4%BF%AE%E6%94%B9%E4%BB%A3%E7%A0%81/</loc>
+    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E9%80%86%E5%90%91%E5%AD%A6%E4%B9%A0-UPX%E5%A3%B3/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -395,14 +379,14 @@
   </url>
   
   <url>
-    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/begin-%E9%80%86%E5%90%91/</loc>
+    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E9%80%86%E5%90%91-%E5%AD%90%E4%BF%AE%E6%94%B9%E4%BB%A3%E7%A0%81/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/Reverse-Golly-DEFCON/</loc>
+    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/begin-%E9%80%86%E5%90%91/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -423,21 +407,14 @@
   </url>
   
   <url>
-    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/IDA-Python/</loc>
-    <lastmod>2024-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/CTF/</loc>
-    <lastmod>2024-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/RE/</loc>
+    <lastmod>2024-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/IDA-Python/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -451,14 +428,14 @@
   </url>
   
   <url>
-    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/python-%E9%80%86%E5%90%91/</loc>
+    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/CTF/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E4%B8%93%E9%A2%98/</loc>
+    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/python-%E9%80%86%E5%90%91/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -472,7 +449,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/</loc>
+    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E4%B8%93%E9%A2%98/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -486,7 +463,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1-OJ/</loc>
+    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -494,6 +471,13 @@
   
   <url>
     <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/CTF-Misc/</loc>
+    <lastmod>2024-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1-OJ/</loc>
     <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
