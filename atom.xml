@@ -147,7 +147,7 @@
     <published>2024-10-10T16:00:00.000Z</published>
     <updated>2024-10-30T11:40:00.660Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="SEKAICTF-Reverse"><a href="#SEKAICTF-Reverse" class="headerlink" title="SEKAICTF | Reverse"></a>SEKAICTF | Reverse</h1><h2 id="Mobile-Crackme"><a href="#Mobile-Crackme" class="headerlink" title="[Mobile] Crackme"></a>[Mobile] Crackme</h2><blockquote><p>Developed for SekaiCTF 2022 but never got a chance to release it. Can you log in and claim the flag?</p><p>auther:sahuang</p></blockquote><p><a href="https://fluxh4cks.medium.com/solving-crackme-from-sekaictf-9660dc41b0ce">Solving Crackme from SekaiCTF. A reverse engineering challenge that… | by Flux | Aug, 2024 | Medium</a></p><p>I think the blog written by this ctfer is very detailed.</p><p>Briefly describe the following:</p><ul><li><p>Main function dont have page information.</p></li><li><p>Confirm this it is in the Native. unzip by apktool and ollvm”CrackMe&#x2F;assets&#x2F;index.android.bundle”</p><ul><li>a good tools about js ollvm : <a href="https://en.kali.tools/?p=1359">https://en.kali.tools/?p=1359</a></li></ul></li><li><p>find “sekai”:</p><ul><li>uname: <a href="mailto:&#97;&#100;&#x6d;&#105;&#x6e;&#x40;&#x73;&#x65;&#x6b;&#97;&#105;&#46;&#116;&#101;&#x61;&#x6d;">&#97;&#100;&#x6d;&#105;&#x6e;&#x40;&#x73;&#x65;&#x6b;&#97;&#105;&#46;&#116;&#101;&#x61;&#x6d;</a></li><li>pswd: s3cr3t_SEKAI_P@ss<ul><li>AES: 03afaa672ff078c63d5bdb0ea08be12b09ea53ea822cd2acef36da5b279b9524</li><li>Key: react_native_expo_version_47.0.0</li><li>IV: _<em>sekaictf2023</em>_</li></ul></li></ul></li><li><p>firebase connection (db), after successful authentication,the code references a specific location in the Firebase Realtime Database. use http toolkit to intercept this connection from the app and retrieve the flag from the server that was sent back to the user</p></li></ul><h2 id="X64-Extension"><a href="#X64-Extension" class="headerlink" title="X64 Extension"></a>X64 Extension</h2><blockquote><p>I think implementing Crypto in assembly will make stuff run faster so why not do so?</p><p>auther: lyed</p></blockquote><p><a href="https://github.com/Pusty/writeups/tree/master/SekaiCTF2024">writeups&#x2F;SekaiCTF2024 at master · Pusty&#x2F;writeups</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="SEKAICTF-Reverse"><a href="#SEKAICTF-Reverse" class="headerlink" title="SEKAICTF | Reverse"></a>SEKAICTF | Reverse</h1><h2 id="Mobile-Crackme"><a href="#Mobile-Crackme" class="headerlink" title="[Mobile] Crackme"></a>[Mobile] Crackme</h2><blockquote><p>Developed for SekaiCTF 2022 but never got a chance to release it. Can you log in and claim the flag?</p><p>auther:sahuang</p></blockquote><p><a href="https://fluxh4cks.medium.com/solving-crackme-from-sekaictf-9660dc41b0ce">Solving Crackme from SekaiCTF. A reverse engineering challenge that… | by Flux | Aug, 2024 | Medium</a></p><p>I think the blog written by this ctfer is very detailed.</p><p>Briefly describe the following:</p><ul><li><p>Main function dont have page information.</p></li><li><p>Confirm this it is in the Native. unzip by apktool and ollvm”CrackMe&#x2F;assets&#x2F;index.android.bundle”</p><ul><li>a good tools about js ollvm : <a href="https://en.kali.tools/?p=1359">https://en.kali.tools/?p=1359</a></li></ul></li><li><p>find “sekai”:</p><ul><li>uname: <a href="mailto:&#97;&#100;&#109;&#105;&#x6e;&#x40;&#x73;&#101;&#x6b;&#97;&#105;&#x2e;&#116;&#101;&#x61;&#109;">&#97;&#100;&#109;&#105;&#x6e;&#x40;&#x73;&#101;&#x6b;&#97;&#105;&#x2e;&#116;&#101;&#x61;&#109;</a></li><li>pswd: s3cr3t_SEKAI_P@ss<ul><li>AES: 03afaa672ff078c63d5bdb0ea08be12b09ea53ea822cd2acef36da5b279b9524</li><li>Key: react_native_expo_version_47.0.0</li><li>IV: _<em>sekaictf2023</em>_</li></ul></li></ul></li><li><p>firebase connection (db), after successful authentication,the code references a specific location in the Firebase Realtime Database. use http toolkit to intercept this connection from the app and retrieve the flag from the server that was sent back to the user</p></li></ul><h2 id="X64-Extension"><a href="#X64-Extension" class="headerlink" title="X64 Extension"></a>X64 Extension</h2><blockquote><p>I think implementing Crypto in assembly will make stuff run faster so why not do so?</p><p>auther: lyed</p></blockquote><p><a href="https://github.com/Pusty/writeups/tree/master/SekaiCTF2024">writeups&#x2F;SekaiCTF2024 at master · Pusty&#x2F;writeups</a></p>]]></content>
     
     
       
@@ -214,6 +214,26 @@
       
       
     <summary type="html">&lt;h2 id=&quot;问题1：EAX在调用printf函数前的操作&quot;&gt;&lt;a href=&quot;#问题1：EAX在调用printf函数前的操作&quot; class=&quot;headerlink&quot; title=&quot;问题1：EAX在调用printf函数前的操作&quot;&gt;&lt;/a&gt;问题1：EAX在调用printf函数前的</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hitcon-CTF|Pwn|Fourchain_Hole</title>
+    <link href="https://github.com/xyy9233/xyy9233.github.io.git/2024/09/17/Hitcon-CTFPwnFourchain_Hole/"/>
+    <id>https://github.com/xyy9233/xyy9233.github.io.git/2024/09/17/Hitcon-CTFPwnFourchain_Hole/</id>
+    <published>2024-09-16T16:00:00.000Z</published>
+    <updated>2024-10-30T12:28:11.734Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Hitcon-CTF-Pwn-Fourchain-Hole"><a href="#Hitcon-CTF-Pwn-Fourchain-Hole" class="headerlink" title="Hitcon-CTF|Pwn|Fourchain_Hole"></a>Hitcon-CTF|Pwn|Fourchain_Hole</h1><h2 id="环境配置："><a href="#环境配置：" class="headerlink" title="环境配置："></a>环境配置：</h2><ul><li>Based on git commit hash: 63cb7fb817e60e5633fb622baf18c59da7a0a682</li><li>args.gn:<br>dcheck_always_on &#x3D; false                                                                                                                                          is_debug &#x3D; false<br>target_cpu &#x3D; “x64”<br>v8_enable_sandbox &#x3D; true</li><li>It is recommended that you solve this challenge on a Debian Linux 11.5.0 machine.</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Hitcon-CTF-Pwn-Fourchain-Hole&quot;&gt;&lt;a href=&quot;#Hitcon-CTF-Pwn-Fourchain-Hole&quot; class=&quot;headerlink&quot; title=&quot;Hitcon-CTF|Pwn|Fourchain_Hole&quot;&gt;&lt;/a</summary>
       
     
     
@@ -414,28 +434,6 @@
     
     
     <category term="NSSCTF" scheme="https://github.com/xyy9233/xyy9233.github.io.git/tags/NSSCTF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MFC图形化界面</title>
-    <link href="https://github.com/xyy9233/xyy9233.github.io.git/2024/04/13/MFC%E5%9B%BE%E5%BD%A2%E5%8C%96%E7%95%8C%E9%9D%A2/"/>
-    <id>https://github.com/xyy9233/xyy9233.github.io.git/2024/04/13/MFC%E5%9B%BE%E5%BD%A2%E5%8C%96%E7%95%8C%E9%9D%A2/</id>
-    <published>2024-04-12T16:00:00.000Z</published>
-    <updated>2024-10-30T11:44:31.919Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="MFC图形化界面"><a href="#MFC图形化界面" class="headerlink" title="MFC图形化界面"></a>MFC图形化界面</h1><h2 id="windows桌面应用编程"><a href="#windows桌面应用编程" class="headerlink" title="windows桌面应用编程"></a>windows桌面应用编程</h2><p><img src="C:\Users\17687\AppData\Roaming\Typora\typora-user-images\image-20240203202804698.png" alt="image-20240203202804698"></p><p><img src="C:\Users\17687\AppData\Roaming\Typora\typora-user-images\image-20240203202813056.png" alt="image-20240203202813056"></p><p><img src="C:\Users\17687\AppData\Roaming\Typora\typora-user-images\image-20240203202823482.png" alt="image-20240203202823482"></p><p><img src="C:\Users\17687\AppData\Roaming\Typora\typora-user-images\image-20240203202851227.png" alt="image-20240203202851227"></p><p><img src="C:\Users\17687\AppData\Roaming\Typora\typora-user-images\image-20240203202903575.png" alt="image-20240203202903575"></p><p><img src="C:\Users\17687\AppData\Roaming\Typora\typora-user-images\image-20240203202911473.png" alt="image-20240203202911473"></p><h2 id="MFC-正向开发"><a href="#MFC-正向开发" class="headerlink" title="MFC 正向开发"></a><strong>MFC</strong> <strong>正向开发</strong></h2><p><img src="C:\Users\17687\AppData\Roaming\Typora\typora-user-images\image-20240203202925910.png" alt="image-20240203202925910"></p><p><img src="C:\Users\17687\AppData\Roaming\Typora\typora-user-images\image-20240203202934106.png" alt="image-20240203202934106"></p><h2 id="逆向思路"><a href="#逆向思路" class="headerlink" title="逆向思路"></a><strong>逆向思路</strong></h2><ul><li><p>通过 ResourceHacker 可以获取控件的 ID 号、修改控件布局等</p></li><li><p>通过 xspy 可以获取控件消息所对应的处理函数地址</p></li><li><p>通过 GetDlgItem &#x2F; GetDlgItemText &#x2F; GetDlgItemInt &#x2F; GetWindowText 系列 API 找到关键函数</p></li></ul><p>找到关键函数后，即为常规逆向</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;MFC图形化界面&quot;&gt;&lt;a href=&quot;#MFC图形化界面&quot; class=&quot;headerlink&quot; title=&quot;MFC图形化界面&quot;&gt;&lt;/a&gt;MFC图形化界面&lt;/h1&gt;&lt;h2 id=&quot;windows桌面应用编程&quot;&gt;&lt;a href=&quot;#windows桌面应用编程&quot; c</summary>
-      
-    
-    
-    
-    
-    <category term="MFC" scheme="https://github.com/xyy9233/xyy9233.github.io.git/tags/MFC/"/>
     
   </entry>
   
