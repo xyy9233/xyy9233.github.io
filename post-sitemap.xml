@@ -9,24 +9,8 @@
 
 
     <url>
-        <loc>https://github.com/xyy9233/xyy9233.github.io.git/2024/10/20/newstar2024/</loc>
-        <lastmod>2024-11-14T11:33:12.055Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://github.com/xyy9233/xyy9233.github.io.git/2024/11/11/hitcon-2018-rev-super-hexagon-a-journey-from-el0-to-s-el3/</loc>
-        <lastmod>2024-11-11T15:43:23.131Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://github.com/xyy9233/xyy9233.github.io.git/2024/11/11/qiang-wang-bei-2024/</loc>
-        <lastmod>2024-11-11T14:34:56.339Z</lastmod>
+        <loc>https://github.com/xyy9233/xyy9233.github.io.git/2024/05/04/re-bai-ti-ji-hua/</loc>
+        <lastmod>2024-11-14T13:39:04.447Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -34,15 +18,31 @@
 
     <url>
         <loc>https://github.com/xyy9233/xyy9233.github.io.git/2024/11/10/pwn-ru-men-jie-duan-xiao-jie/</loc>
-        <lastmod>2024-11-11T14:20:33.222Z</lastmod>
+        <lastmod>2024-11-14T13:38:54.750Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://github.com/xyy9233/xyy9233.github.io.git/2024/11/14/pcbctf2024/</loc>
-        <lastmod>2024-11-10T05:26:52.632Z</lastmod>
+        <loc>https://github.com/xyy9233/xyy9233.github.io.git/2024/11/10/qiang-wang-bei-2024/</loc>
+        <lastmod>2024-11-14T13:38:26.329Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://github.com/xyy9233/xyy9233.github.io.git/2024/11/10/pcbctf2024/</loc>
+        <lastmod>2024-11-14T13:37:43.935Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://github.com/xyy9233/xyy9233.github.io.git/2024/10/20/newstar2024/</loc>
+        <lastmod>2024-11-14T11:33:12.055Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -75,14 +75,6 @@
     <url>
         <loc>https://github.com/xyy9233/xyy9233.github.io.git/2024/10/22/pwnde-quan-zhan-xiao-you-xi/</loc>
         <lastmod>2024-10-30T11:41:58.566Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://github.com/xyy9233/xyy9233.github.io.git/2024/05/04/re-bai-ti-ji-hua/</loc>
-        <lastmod>2024-10-30T11:40:39.421Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
