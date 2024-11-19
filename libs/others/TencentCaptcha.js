@@ -1,1 +1,0 @@
-onIsOff=true;window.callback=function(t){if(t.ret===0){window.clearInterval(t2)}if(t.ret===2){onIsOff=true}};var t2=window.setInterval((function(){if(onIsOff==true){act=document.activeElement.id;if(act=="veditor"){document.getElementById("TencentCaptcha").click();onIsOff=false}}}),1e3);
