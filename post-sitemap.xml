@@ -41,8 +41,8 @@
     </url>
 
     <url>
-        <loc>https://github.com/xyy9233/xyy9233.github.io.git/2024/09/10/blockctf-2024-reverse/</loc>
-        <lastmod>2024-11-15T14:10:45.698Z</lastmod>
+        <loc>https://github.com/xyy9233/xyy9233.github.io.git/2024/11/21/blockctf2024/</loc>
+        <lastmod>2024-11-17T03:44:53.171Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -115,6 +115,14 @@
     <url>
         <loc>https://github.com/xyy9233/xyy9233.github.io.git/2024/10/20/xyctf2024-fu-xian-reverse/</loc>
         <lastmod>2024-10-31T16:26:53.698Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://github.com/xyy9233/xyy9233.github.io.git/2024/11/21/cuckoo-da-jian-yu-steamwork1-fen-xi-bao-gao/</loc>
+        <lastmod>2024-10-30T18:01:14.211Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

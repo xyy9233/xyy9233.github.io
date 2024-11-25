@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/OJ/</loc>
-        <lastmod>2024-11-15T14:10:45.698Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/wdb-2024/</loc>
         <lastmod>2024-10-31T16:28:53.669Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -54,6 +47,13 @@
     <url>
         <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/CTF-RE/</loc>
         <lastmod>2024-09-16T07:56:07.701Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/OJ/</loc>
+        <lastmod>2024-09-16T07:53:19.369Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
