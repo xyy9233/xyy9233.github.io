@@ -3,6 +3,13 @@
 
 
     <url>
+        <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E5%88%B7%E9%A2%98/</loc>
+        <lastmod>2024-12-16T03:50:07.298Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/wdb-2024/</loc>
         <lastmod>2024-12-16T03:46:20.708Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,13 +26,6 @@
     <url>
         <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/Re/</loc>
         <lastmod>2024-12-16T03:45:39.171Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://github.com/xyy9233/xyy9233.github.io.git/tags/%E5%88%B7%E9%A2%98/</loc>
-        <lastmod>2024-12-16T03:45:13.270Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
