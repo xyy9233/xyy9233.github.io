@@ -6,7 +6,7 @@
   <link href="https://github.com/xyy9233/xyy9233.github.io.git/atom.xml" rel="self"/>
   
   <link href="https://github.com/xyy9233/xyy9233.github.io.git/"/>
-  <updated>2025-01-01T13:37:43.703Z</updated>
+  <updated>2025-01-09T07:39:01.898Z</updated>
   <id>https://github.com/xyy9233/xyy9233.github.io.git/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>🦀！rust的味道！</title>
+    <link href="https://github.com/xyy9233/xyy9233.github.io.git/2025/01/08/rust-de-wei-dao/"/>
+    <id>https://github.com/xyy9233/xyy9233.github.io.git/2025/01/08/rust-de-wei-dao/</id>
+    <published>2025-01-08T09:48:01.045Z</published>
+    <updated>2025-01-09T07:39:01.898Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简单了解一下rust和moonbit"><a href="#简单了解一下rust和moonbit" class="headerlink" title="简单了解一下rust和moonbit"></a>简单了解一下rust和moonbit</h1><p>总想着复现整理一下之前lilran师傅出的那个rust题目，也一直想简单了解rust逆向。</p><p>最近期末周事情也少很多，背烦了，看pwn师傅在学rust，想起之前lilran说说发的moonbit，</p><h2 id="不管，先复现这道题："><a href="#不管，先复现这道题：" class="headerlink" title="不管，先复现这道题："></a>不管，先复现这道题：</h2><p>打开rust，映入眼帘的是错综复杂的各种引用，</p><p>跟着lilran师傅的步骤逐个看：</p><p>主函数系列creat函数：</p><p><img src="https://xyy9233.oss-cn-beijing.aliyuncs.com/hexoblog/image-20250109125109431.png" alt="image-20250109125109431"></p><p>接着是输出：</p><p>堆上分配长度48的长度，输入flag<img src="https://xyy9233.oss-cn-beijing.aliyuncs.com/hexoblog/image-20250109125511430.png" alt="image-20250109125511430"></p><p>检测：</p><p><img src="https://xyy9233.oss-cn-beijing.aliyuncs.com/hexoblog/image-20250109125913137.png" alt="image-20250109125913137"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;简单了解一下rust和moonbit&quot;&gt;&lt;a href=&quot;#简单了解一下rust和moonbit&quot; class=&quot;headerlink&quot; title=&quot;简单了解一下rust和moonbit&quot;&gt;&lt;/a&gt;简单了解一下rust和moonbit&lt;/h1&gt;&lt;p&gt;总想着复现整</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Arduino入门了解</title>
@@ -412,25 +432,6 @@
     
     
     <category term="Re" scheme="https://github.com/xyy9233/xyy9233.github.io.git/tags/Re/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>HITCON 2018 | rev |Super Hexagon： A Journey from EL0 to S-EL3</title>
-    <link href="https://github.com/xyy9233/xyy9233.github.io.git/2024/11/01/hitcon-2018-rev-super-hexagon-a-journey-from-el0-to-s-el3/"/>
-    <id>https://github.com/xyy9233/xyy9233.github.io.git/2024/11/01/hitcon-2018-rev-super-hexagon-a-journey-from-el0-to-s-el3/</id>
-    <published>2024-10-31T16:00:00.000Z</published>
-    <updated>2024-12-16T03:45:13.270Z</updated>
-    
-    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="bf7ab697fc95d419eabbca3e5527e4da6ec369c3459a446994b9cb4c349a726e">35a55f2c26f92125317739f3d5181cb947454fb3786c5f34be6db0e796151b08ff2aa796f9f9947b63fac1f73c5afc1ba91cf6d56925f04dc382aa10c84e4d023a145dfb18e400b7f732c3f985b257f5bdcb4532bb6a44c850765d1164fa3f35d03c7b7ac4ddfff86ade6484765af03ed48793c15889131aa9320db308eba22b66de1a9bc1101697a08a0cd5b48ea2bc3f6dfb7b53bb8b43aed1fa641801fec51a72e5184e8e20d47c6504987dbabeb0f45a9dd557dfed1649d4bc0e7e24f2ec424260f175a605e0019dc7e7c0a459643722e31644204f1a5b972c448b333c7b4e781525286b69e81f7903ff0219ec7d43c12015727b670fabbcf5c30376a16e5d79d6800fffa0fdfbaacdbd9182d97e652538df294e95a26db5cf51cfefeb223a0347b174844ca66c0dcefd74e53d2885a8a6a5f0c32686dff4033370ebad99e0cf556bb63f5118f66e5bcfcb47ab1596f8df3db7cabd451de4ab42c4f8a585399d90543a59244d05739d823ee6603f02841f211ee2aaab44ef2c6bb1da027e92ef373b6d074636862bce83dd27847dc6a4c3da4fd7e3e72530eb8c2930a4a8d4f8e262a33b4d80b1f09b1207d021879e27fa060de7fcd84ad69bfe09ad610dc45446787c5b2a5c550ccc7416dd3dfd867944f47d3acd2b4b0a81541ea380d81c2831eaeabfdb9a35dd92f9a9d21d673473c2dc8cada8e7c433f9714d22a586fd2d50cdf3ff97c06e7a6a112efef6c23f43a949e290d3793ba78a8cfb5fa27f6f8e94c351022fe2925cead614927c5e93f85c49ea486a3931f13d666ef237939654e3e4c214f64645006408b521ad417c7de193a1efb4789d69a1b4e2afc9835a06586c9bb3f3d521d0ad1cecbb42f495623b2fcc1fa0e9a022209a9563770c81cb031e46f462058de748febfe20d5edaa886428917fc3889b9f973e604864d6771a5b8247c9272494e81d1d650ce5edf9ae03fbb23966291b1f9712c428badfca89bd516a6acfcff4f842b82e2a24d5feb22e9fb66bdadbc35c0ac2a7ac36c6ac19b048f3eb37c20a5bcadd4dac4958934a53edd304b33d9c4095fbac93b4dd8592b179a8bd20c9c5698b6fd03ef460ce77e00f80ba13f5c7e0b61ebdb3ac50e3325f1de8d6127f2b2654ed77a8844ced00d3d3d529a0aac2f14fccca9c5d0a03a9270c109e7660aa544e8ddb61bd6201c9bdf24b37029d6bfab2c53ea9727107bd15b4ff46c3fb1e9638ebf17a2677e830f0858b9b062071a4362579df227cc8c50f9341cff559c11dcef5e65db61d100b9528b4d3753d18a6337725256acc05906b9675ef273b56f509ae71cc3ec2db53d58c22a2f58b270bf43e86d755d58679f2f2531b4a7b8c8d3a2263e9c61996d52ad686c9b31c988136e545a33f53d227d32825adfb4db0e4164eb4b4df7f76dc314601d9c7378ff85e7fee4bda329e1c16a612137ec3fdc0826b101341d82fffcbb2930f72c9c3c3c491c30b839b67334fc84691236ec4e7613e2c56ee679d29e19db1d6236d16c6721e61164e9aa7329c82d0822c0a69834e38b55a41841945d8fba62f5fe3269fa336d21716bc0ba5c75ae8f5b03b51cff64cb313db9248c536a3c8a3380c5c84d157b588a3e3900bc6f31204e7abfb8a1741d2a86389ec772e29814c130e15a8dbe2406fb09898e62feea4774145ba0f0923332e454dc6601c5c2063cc1684c669ebc4c2a98d4ce5e24c19886971e68bedf08ac55cc6ec11937a1fd590805972d98d27913cc3c9f01ce0f095bd980a8a45f076b09ecc0dd54738ee5676f730e7f7b5da0898d5211616546c799ba3cea40a7fab5fa6aab9190fca96f25f6f078e007adfd240279a1c937a17a88b73c116fc983b8c2ceda9b620d64e74637741691b402d803f54d38541e408b56c4fe3233026b14e6ed229947bc6e61a13a971efb197c1ce5ccc31dfe32e0ac86f143aa6ab5140f948f7c0f585155ec62e2d0a0f043f3188d8d0bd6f0d6a10f603dbb8e7c170c3cb1f76b2fb4a4d8939f1d25a36bc79f40eb08741d411194eea4952e26339f2c88cc4c4a4a202de2894712156b60d0e7777ebbaf910ffd95e7bf039b860541c696b13c838518c6fbb26ba534c50d10d729391427db8a0389f098d2df74bf21d24f76a0592aaea8a05811a4acfc59b42507ebfb7bfc145be48d52b0e116cc216f4affc3bb336bd794ebb8eeb42e7c5ae7398caf3eb0ccaad019fd3f1fc6cc6b0e63d470f860e1308565599ce3e6e4ed8e57b9c746bc98ffd3bd092a444aa500deee6fa652159a5bc54be0a17a4b324e87a293573793ee10f902c27c6034f7f88598dc67001bfeeebdcf572c80dff4820f60bb7e0bcfe13c836414df8c1141f7e3a2f467d09d8370c1cedda2c28657db2b4cdce2dc031eac4d5cd057f2d645b93b6822f72c7e36d824c53de52674a42b8cfba3aebb694c37d4ac2de93a23ab659a4f374a7a0f24eee21538b8b18ec229581e92d031ba4e646f3aa0a26ab74d5eac7d8bfeeecd0a5ada9606194e5957602759354057a7d456440bd02e6cf31b49bc6fabb69299c4fc592a08dac1643acd83e676b383b3050d9378e57d8afe1a96760a8bb3c0e67cabe1dba3dd23fe4e2b97cfbabfc49915fb0b5f735001ac5ac53899a70bb69df48f429e1a02e473c451d778d8c4a36ad9be2cc77e8421017990aad18ddda590cb174821d877201dd23017500925222e043be6e031be4207f09ecd113cedc4fd2e84913e8892932b49fc44a9ccac8b0402825a69d8f818f07e6fff8dea2393fd48c511550efceea0d3b743ae9a01f7e3c70ef13bbe514124bdf066598428174f1c19dd726fbed2592d9ac63214e5551827149ca5718e5d2ea899f5eaeb02b1a31be06cf345e263c244e5aadf2d5021c8cb7204bef52032801603eff7489a24fce60511844663a07bda34d96e25b2cd09cfc88fe2f009636bdb54d23be002c7a0bb57ceb1cdb56e62a2ec81d34c7f066f1a127804b87fa4ff93d8aa2873d79127e70efa6fb8071f88c2d28ed7f2968c060692a71a390fc881f23faf150d11c6a04ea324e519031f961ba66d20aba5e6bc1796d396f57a8b29ee4040fd0a4f32e308fd18afa45015f1ebef0c040b910b52212bc61a50fe603a43c55f205fbbe6a8490f24717aa38e5a605bb241776c5a15171767591bca9ba3053152a84820f50ec78ca329039a3003a29f6d9aaf7c650d10e66f902d3807b49b1dbdd0887e29fc12f44280233761b4f3e71212978d0f99c97ed95da3a3feb9bb2c2471616f73aa4d06ee899088ad6fa22b39748250d9febec6036c2b1f9e59721c25267a23b376c629951318ecb6d8c7542e194599bba152e556b0021013d168cb5bbe316da5bb154e6776b7856f04bd99d638744b8b909ad4092ead812e9ba17ecc59cc6307e664a28fa462c58458f57b99b0356114fa4b7b3b7d7f763e4abbe0aff3cb4b50eb36f2d4d6ae83241a4f2850b33fc96c6e6d6586a6cd1806b0edcdf601bdb87b46b15f354d7120270a2c001577a2b43e71680455531baaccf3a8e346aadad7fe241c2f297d6b4115d75b51d9cfedbbff89026459328725c9edc3e698a123f1c970e7073bfd81fa5b5aba9feeee94695a3b38515e00356278f8d5c64cd6d51e9283e0d16cf6a0821d33eb8d95f448e04cf95c5f27a281cd4af295411a292a7aaed12c87fd74904b587294119ae1e463e73fd0551e65b8b45b477761cac615cac95adf53b7a49c3f3ee531984328bc1429c438e9a7c79834aeff9ba907c1cea5bda0c8d72861c1fe2ee670a2e02a632cbb9ea6ba62c32bc5ba6897321bfd96b100d0ea9272d9704da4b94f798ef8a9fbe7dc65c951a8673ee38e0e0b551304297cbd243825d6d1c996674391b5267c915730a6d56e0668575994b45a46f9497aef42cd80ec5ea0c911bf64099a184a00f9cc3180a62abb6ee72b85ae0f4e7ab2b43f940b405226db63b783d689600242b6ff422fafafa6cb81417ca6fa7118cf42d88bab702e84f31496814d3c19fad635073472f4282371a1b89546a2d33498c932b70edb44511c439aae297b6fc72d74df20574c1ce1686a7c57eb8f7f7afdc06049439c1ccc4269211cad34ad6794783a50fb4e14e41bc99e98a5546f6c6ef9472c1c7b4ed99973ad5300749fd5da3178a0fb9e48c7d13e15a3cf185d1ba47827da578a4dbbd58814ff5831e28a7e98a85755c60e17b7a1be8a518f63a24159e214190fcd16e6860bbaf01be8f192da10c5c3c3de2a35202a0e06860cf48fdb571219c6e3c5074a0893b46245cbd5b4aca17cd3d0f112ec1c5dbae57cbc28502326bace364c5de1146d34d7957cacc38e779277b81ba1a11c0bf2230d320de16c14f7b1e97f90f37ab9a527179b36cb5246983999ceb75d03fc27144e68dad3ac415e09feb8fc90602ae00c992aa5900c4dcd30b9923e63b6cfdaae09cf9d4244deb2a8d08fa4db8ceae575673c73e3e637e49aed2af518668404e27da9c5ae74da90533949eb0874e97de7c9d6bdab1c8eef3c490a74973ab85c05be62ed4323840073c75a83a3824fb850ec5a2db0c683b2e9b235de29cc2251f0e3229245511295f47f10f55b1a002e8dec552d8579a1313824eed31e7603e2adbfa715c2094aebad5329831597cf47ba63231b5448b93169e2ce273763605be849aad094599d37d22be978f5d3a8115c96953ee97aeb101c44120602a6bf3015f7d6451da1352103a3b2f70bcdfcee060e85fdcaf192fb4600042e56d79db686c9ce3a067cd7c37d3985722d4dcb20cc14037106a2d142c21005396c5ed1e837f7553d6a1b4e7f272b0c6e8bbee3522dc9ea9f271d9eab57c83b6d754e0599cc3571d1</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">You must enter the password to read.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-    
-    
-    <summary type="html">This blog is encrypted.</summary>
-    
-    
-    
-    
-    <category term="刷题" scheme="https://github.com/xyy9233/xyy9233.github.io.git/tags/%E5%88%B7%E9%A2%98/"/>
     
   </entry>
   
