@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>能打一辈子CTF吗？</title>
+  <title>求知欲，好奇心，勇毅前行</title>
   <icon>https://www.gravatar.com/avatar/260de78781b3355b5fcbb52d09a7a2a9</icon>
-  <subtitle>呜呜什么时候能成为厉害的会二进制的大人啊</subtitle>
+  <subtitle>求知欲，好奇心，勇毅前行</subtitle>
   <link href="https://github.com/xyy9233/xyy9233.github.io.git/atom.xml" rel="self"/>
   
   <link href="https://github.com/xyy9233/xyy9233.github.io.git/"/>
@@ -10,7 +10,7 @@
   <id>https://github.com/xyy9233/xyy9233.github.io.git/</id>
   
   <author>
-    <name>wind_9233</name>
+    <name>W3nL0u</name>
     <email>1768765226@qq.com</email>
   </author>
   
